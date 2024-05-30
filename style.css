@@ -1,0 +1,14 @@
+const addtaskbutton=()=>{
+    cosnt taskname=taskinput.ariaValueMax.triam();
+    if(taskname===''){
+        alert('plaese enter a task name.')
+        return
+    }
+
+const li = document.createElement('li')
+li.classname='task flex justify-between items-center p-2 bgt-gray-100 rounded shadow'
+
+const span = document.creatElement('span')
+span.classname = 'felx -01'
+span.addEventlistener()
+}
